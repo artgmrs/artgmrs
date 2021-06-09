@@ -3,12 +3,12 @@
   <p>welcome to my profile, most of my work is private but I do have some personal/public projects here too</p>
    
   <p> i'm a QA Engineer, developer and gamer</p><br/>
-  <ul>
-    <li>it's not just about technology, it's about solve real problems</li>
-    <li>development: .net core with C#//</li>
-    <li>automation: selenium, mocha, nunit, xunit</li>
-    <li>brasília, brazil</li>
-  </ul>
+
+<p>it's not just about technology, it's about solve real problems</p><br/>
+<p>development: .net core with C#//</p><br/>
+<p>automation: selenium, mocha, nunit, xunit</p><br/>
+<p>brasília, brazil</p><br/>
+
 
   <p>
   get in touch with me:
