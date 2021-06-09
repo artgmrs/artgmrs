@@ -2,9 +2,9 @@
   <h3>What's up! 👋</h3>
   <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
    
-  <p> I'm a QA Engineer, developer and gamer.</p>
+  <p> I'm a QA Engineer, developer and gamer.</p><br/>
   <ul>
-    <li>:rocket: `it's not about technology and code, it's about improve people's lifes`</li>
+    <li>:rocket: it's not just about technology, it's about improve people's lifes</li>
     <li>:purple_heart: Selenium, Mocha, NUnit, XUnit. C# .Net, JS/TS (Node.js)</li>
     <li>:pushpin: Brasília, Brazil   </li>
   </ul>
