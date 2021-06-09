@@ -4,7 +4,7 @@
    
   <p> i'm a QA Engineer, developer and gamer</p><br/>
   <ul>
-    <li>it's not just about technology, it's about improve people's lifes</li>
+    <li>it's not just about technology, it's about solve real problems</li>
     <li>development: .net core with C#//</li>
     <li>automation: selenium, mocha, nunit, xunit</li>
     <li>brasília, brazil</li>
