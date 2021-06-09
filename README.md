@@ -4,9 +4,9 @@
    
   <p> I'm a QA Engineer, developer and gamer.</p><br/>
   <ul>
-    <li>:rocket: it's not just about technology, it's about improve people's lifes</li>
-    <li>:purple_heart: Selenium, Mocha, NUnit, XUnit. C# .Net, JS/TS (Node.js)</li>
-    <li>:pushpin: Brasília, Brazil   </li>
+    <li>it's not just about technology, it's about improve people's lifes</li>
+    <li>Selenium, Mocha, NUnit, XUnit. C# .Net, JS/TS (Node.js)</li>
+    <li>Brasília, Brazil</li>
   </ul>
 
   <p>
