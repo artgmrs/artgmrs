@@ -4,8 +4,8 @@
    
   <p> I'm a QA Engineer, developer and gamer.</p><br/>
   <ul>
-    <li>it's not just about technology, it's about improve people's lifes</li>
-    <li>Selenium, Mocha, NUnit, XUnit. C# .Net, JS/TS (Node.js)</li>
+    <li>It's not just about technology, it's about improve people's lifes</li>
+    <li>C# .Net, JS/TS (Node.js) // For automation: Selenium, Mocha, NUnit, XUnit</li>
     <li>Brasília, Brazil</li>
   </ul>
 
