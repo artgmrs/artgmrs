@@ -1,12 +1,13 @@
 <div align="center">
-  <h3>What's up! 👋</h3>
-  <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
+  <h3>yo! 👋</h3>
+  <p>welcome to my profile, most of my work is private but I do have some personal/public projects here too</p>
    
-  <p> I'm a QA Engineer, developer and gamer.</p><br/>
+  <p> i'm a QA Engineer, developer and gamer</p><br/>
   <ul>
-    <li>It's not just about technology, it's about improve people's lifes</li>
-    <li>C# .Net, JS/TS (Node.js) // For automation: Selenium, Mocha, NUnit, XUnit</li>
-    <li>Brasília, Brazil</li>
+    <li>it's not just about technology, it's about improve people's lifes</li>
+    <li>development: .net core with C#//</li>
+    <li>automation: selenium, mocha, nunit, xunit</li>
+    <li>brasília, brazil</li>
   </ul>
 
   <p>
