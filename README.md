@@ -5,7 +5,7 @@
   <p> i'm a QA Engineer, developer and gamer</p><br/>
 
 <p>"it's not just about technology, it's about solve real problems"</p>
-<p>development: .net core with C#//</p>
+<p>development: .net core with C#</p>
 <p>automation: selenium, mocha, nunit, xunit</p>
 
   <p>
