@@ -3,7 +3,7 @@
   <p>welcome to my profile, most of my work is private but I do have some personal/public projects here too</p>
    
 <p>"it's not just about technology, it's about solve real problems"</p>
-<p>development: C# .NET Core </p>
+<p>development: C# .NET Core && NodeJS </p>
 <p>automation: selenium, mocha, nunit, xunit</p>
 
   <p>
