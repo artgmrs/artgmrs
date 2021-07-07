@@ -1,10 +1,8 @@
 <div align="center">
-  <h3>yo! 👋</h3>
-  <p>welcome to my profile, most of my work is private but I do have some personal/public projects here too</p>
-   
-<p>"it's not just about technology, it's about solve real problems"</p>
-<p>development: .NET && NodeJS </p>
-<p>automation: selenium, mocha, nunit, xunit</p>
+  <h3>eae! 👋</h3>
+  
+<p>desenvolvimento: .NET e NodeJS </p>
+<p>automação: selenium, mocha, n/xunit</p>
 
   <p>
     
