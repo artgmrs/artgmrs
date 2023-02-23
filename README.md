@@ -1,8 +1,8 @@
 <div align="center">
-  <h3>eae! 👋</h3>
+  <h3>opa, tudo bem? 👋</h3>
   
-<p>desenvolvimento: .NET e NodeJS </p>
-<p>automação: selenium, mocha, n/xunit</p>
+<p>desenvolvimento: .NET, React e NodeJS (JS/TS)</p>
+<p>automação: selenium, mocha, n/xunit, jest, puppeteer</p>
 
   <p>
     
