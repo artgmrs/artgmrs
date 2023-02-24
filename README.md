@@ -10,7 +10,6 @@ I'm an full-stack developer aiming to make the world a better place using techno
 - 💬 Experience with **.NET, C#, React, NodeJS, JavaScript, Typescript, HTML, CSS, SQL Server, Quality Assurance, Automation Testing and more**
 
 [![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)
----
 
 <!--
 ### 📊 Stats
