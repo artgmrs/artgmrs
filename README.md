@@ -2,7 +2,7 @@
 
 **`Software Engineer`** 
 
-I'm an full-stack developer aiming to make the world a better place using technology, when it's worth it. My projects are my main way of learning new things, testing out and get something out of my head creating it. I also publish written content on my [blog][https://dev.to/artgmrs].
+I'm an full-stack developer aiming to make the world a better place using technology, when it's worth it. My projects are my main way of learning new things, testing out and get something out of my head creating it.
 
 - 🔥 Web Developer with QA background focused on helping teams deliver a great software. 
 - 🔭 I’m currently working at [dti digital](https://www.dtidigital.com.br/)
