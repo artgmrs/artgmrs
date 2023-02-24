@@ -19,9 +19,8 @@ I'm an full-stack developer aiming to make the world a better place using techno
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dark&border_radius=4.5) 
 
--->
-
 #
+-->
 
 <details>
  <summary><h3>👨‍💻 Arthur's Coding Journey</h3></summary>
