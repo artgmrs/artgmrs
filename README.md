@@ -1,6 +1,8 @@
 # 🏃 Arthur Guimarães
 
-**`Software Engineer`** [![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)
+[![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)
+
+**`Software Engineer`** 
 
 I'm an full-stack developer aiming to make the world a better place using technology, when it's worth it. My projects are my main way of learning new things, testing out and get something out of my head creating it. I also publish written content on my [blog][https://dev.to/artgmrs].
 
