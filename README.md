@@ -12,7 +12,7 @@ I'm an full-stack developer aiming to make the world a better place using techno
 [![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)
 ---
 
-<--
+<!--
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=artgmrs&show_icons=true&theme=dark)
