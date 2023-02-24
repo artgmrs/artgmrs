@@ -10,7 +10,7 @@ I'm an full-stack developer aiming to make the world a better place using techno
 - 💬 Ask me about **.NET, C#, React, NodeJS, JavaScript, Typescript, HTML, CSS, SQL Server, Quality Assurance, Automation Testing and more**
 
 <p align="left">   
-  <a>[![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)</a>
+  [![](https://img.shields.io/badge/-Arthur%20Guimarães-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/artgmrs/)
 </p>
 ---
 
