@@ -1,6 +1,6 @@
 # 🏃 Arthur Guimarães
 
-**`Software Engineer`** 
+**`Software Developer`** 
 
 I'm an full-stack developer aiming to make the world a better place using technology, when it's worth to use it. My projects are my main way of learning new things, testing out and get something out of my head creating it.
 
