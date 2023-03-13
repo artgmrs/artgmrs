@@ -19,10 +19,4 @@
 #
 -->
 
-<details>
- <summary><h3>👨‍💻 Arthur's Coding Journey</h3></summary>
-   I'm a Developer with a lot of interest in Front and Back-end. My main things are .NET, React, Operations, Scrum and Software Quality (CTFL Certified).  Experience with .NET: Core 2.1, 3.1 and .NET 5.  
-   I've worked with: automation programs in Jira, collecting information and transforming it into spreadsheets using its private API; Highly scalable end-to-end software automation projects; Twitter bots; Excel Addin; Backend for frontend; Micro-Frontend Applications; CI - Creating YAML pipelines in Azure Pipelines for .NET and Java; Javascript and Typescript; Queries and creation of DDLs for SQL Server (Azure SQL).    
-	Contact: 
-
 	
