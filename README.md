@@ -2,8 +2,7 @@
 
 **`Software Developer`** 
 
-- 🔥 Software Developer with QA background focused on helping teams deliver great software. 
-- 🔭 I’m currently working at [brq](https://www.brq.com/)
+- 🔥 Software Developer (with QA background) focused on helping teams deliver great software. 
 - ▶️ I (not) regularly post articles on [dev.to/artgmrs](https://dev.to/artgmrs)
 - 💬 Experience with **.NET, C#, React, NodeJS, JavaScript, Typescript, HTML, CSS, SQL Server, Quality Assurance, Automation Testing and more**
 
